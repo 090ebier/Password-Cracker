@@ -1,6 +1,6 @@
 # Password-Cracker
 
-DocUnlocker is a desktop application designed to unlock password-protected MS Office and PDF files. It utilizes a password list to attempt to open these files.
+Password-Cracker is a desktop application designed to unlock password-protected MS Office and PDF files. It utilizes a password list to attempt to open these files.
 
 ## Features
 
@@ -20,16 +20,16 @@ DocUnlocker is a desktop application designed to unlock password-protected MS Of
 
 ## Installation and Usage
 
-1. Clone the repository:
+  1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/docunlocker.git](https://github.com/090ebier/Password-Cracker.git
    cd Password-Cracker
-   
+   ```
   2. Install the required packages:
   ```bash
   pip install -r requirements.txt
 ```
-3.Run the application:
+  3.Run the application:
 
  ```bash
-python Password-Cracker.py
+  python Password-Cracker.py
