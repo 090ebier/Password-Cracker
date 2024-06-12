@@ -24,3 +24,12 @@ DocUnlocker is a desktop application designed to unlock password-protected MS Of
    ```bash
    git clone https://github.com/yourusername/docunlocker.git](https://github.com/090ebier/Password-Cracker.git
    cd Password-Cracker
+   
+  2. Install the required packages:
+  ```bash
+  pip install -r requirements.txt
+```
+3.Run the application:
+
+ ```bash
+python Password-Cracker.py
