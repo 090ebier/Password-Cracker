@@ -1,4 +1,4 @@
-# DocUnlocker
+# Password-Cracker
 
 DocUnlocker is a desktop application designed to unlock password-protected MS Office and PDF files. It utilizes a password list to attempt to open these files.
 
