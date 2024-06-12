@@ -29,7 +29,7 @@ Password-Cracker is a desktop application designed to unlock password-protected 
   ```bash
   pip install -r requirements.txt
 ```
-  3.Run the application:
+  3. Run the application:
 
  ```bash
   python Password-Cracker.py
