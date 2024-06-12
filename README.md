@@ -22,7 +22,7 @@ Password-Cracker is a desktop application designed to unlock password-protected 
 
   1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/docunlocker.git](https://github.com/090ebier/Password-Cracker.git
+   git clone https://github.com/090ebier/Password-Cracker.git
    cd Password-Cracker
    ```
   2. Install the required packages:
