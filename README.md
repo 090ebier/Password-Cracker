@@ -33,3 +33,9 @@ Password-Cracker is a desktop application designed to unlock password-protected 
 
  ```bash
   python Password-Cracker.py
+ ```
+
+## Preview
+
+
+![Alt text](https://github.com/090ebier/Password-Cracker/blob/main/Password-Cracker.png)
