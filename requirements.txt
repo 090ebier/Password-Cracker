@@ -1,0 +1,4 @@
+pikepdf
+msoffcrypto-tool
+PySide6
+requests
